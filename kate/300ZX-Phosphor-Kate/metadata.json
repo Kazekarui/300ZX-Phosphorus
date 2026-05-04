@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Kate/ColorTheme",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "",
+        "Name": "300ZX Phosphor"
+      }
+    ],
+    "Category": "",
+    "Description": "300ZX Z31 digital cluster color theme for Kate",
+    "Icon": "preferences-color",
+    "Id": "300ZX-Phosphor",
+    "License": "GPL-2.0+",
+    "Name": "300ZX Phosphor",
+    "Version": "1.0"
+  }
+}

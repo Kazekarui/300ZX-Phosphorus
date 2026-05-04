@@ -1,0 +1,22 @@
+{
+  "KPackageStructure": "Plasma/Theme",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "",
+        "Name": "300ZX Phosphor"
+      }
+    ],
+    "Category": "",
+    "Description": "300ZX Z31 digital cluster aesthetic - dark green phosphor",
+    "Description[en_US]": "300ZX Z31 digital cluster aesthetic - dark green phosphor",
+    "Icon": "preferences-desktop-theme",
+    "Id": "300ZX-Phosphor",
+    "License": "GPL-2.0+",
+    "Name": "300ZX Phosphor",
+    "Name[en_US]": "300ZX Phosphor",
+    "Website": "",
+    "Version": "1.0"
+  },
+  "X-Plasma-APIVersion": "2.0"
+}

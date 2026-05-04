@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32">
+  <rect id="normal" width="32" height="32" fill="#111a16" stroke="none"/>
+  <rect id="hover" width="32" height="32" fill="#15201c" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="pressed" width="32" height="32" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="active" width="32" height="32" fill="#1a2e24" stroke="#00ff66" stroke-width="1"/>
+  <rect id="attention" width="32" height="32" fill="#1a2e24" stroke="#ffa366" stroke-width="1"/>
+</svg>

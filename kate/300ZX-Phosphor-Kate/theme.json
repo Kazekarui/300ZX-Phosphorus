@@ -1,0 +1,117 @@
+{
+  "backgroundColor": "#0a0f0d",
+  "color": "#8bff9f",
+  "fontFamily": "JetBrainsMono Nerd Font",
+  "fontSize": 11,
+  "name": "300ZX Phosphor",
+  "textStyles": {
+    "Normal": {
+      "textColor": "#8bff9f",
+      "backgroundColor": "#0a0f0d"
+    },
+    "Keyword": {
+      "textColor": "#00ff66",
+      "bold": true
+    },
+    "Function": {
+      "textColor": "#1aff85"
+    },
+    "Variable": {
+      "textColor": "#6edc8a"
+    },
+    "ControlFlow": {
+      "textColor": "#ffa366",
+      "bold": true
+    },
+    "Operator": {
+      "textColor": "#4fa36a"
+    },
+    "BuiltIn": {
+      "textColor": "#00ff66"
+    },
+    "Extension": {
+      "textColor": "#8bff9f"
+    },
+    "Preprocessor": {
+      "textColor": "#ffa366"
+    },
+    "Attribute": {
+      "textColor": "#6edc8a"
+    },
+    "Char": {
+      "textColor": "#8bff9f"
+    },
+    "SpecialChar": {
+      "textColor": "#1aff85"
+    },
+    "String": {
+      "textColor": "#8bff9f"
+    },
+    "SpecialString": {
+      "textColor": "#1aff85"
+    },
+    "VerbatimString": {
+      "textColor": "#6edc8a"
+    },
+    "Number": {
+      "textColor": "#00ff66",
+      "bold": true
+    },
+    "Float": {
+      "textColor": "#1aff85"
+    },
+    "BaseN": {
+      "textColor": "#00ff66"
+    },
+    "DecVal": {
+      "textColor": "#00ff66"
+    },
+    "Comment": {
+      "textColor": "#2e4d3c",
+      "italic": true
+    },
+    "Documentation": {
+      "textColor": "#4fa36a",
+      "italic": true
+    },
+    "Annotation": {
+      "textColor": "#ffa366"
+    },
+    "CommentVar": {
+      "textColor": "#6edc8a",
+      "italic": true
+    },
+    "RegionMarker": {
+      "textColor": "#1f3a2d"
+    },
+    "Information": {
+      "textColor": "#8bff9f"
+    },
+    "Warning": {
+      "textColor": "#ffa366",
+      "bold": true
+    },
+    "Alert": {
+      "textColor": "#ff6b6b",
+      "bold": true
+    },
+    "Others": {
+      "textColor": "#8bff9f"
+    },
+    "Error": {
+      "textColor": "#ff6b6b",
+      "bold": true,
+      "underline": true
+    },
+    "DataType": {
+      "textColor": "#1aff85"
+    },
+    "Import": {
+      "textColor": "#ffa366"
+    },
+    "Constant": {
+      "textColor": "#00ff66",
+      "bold": true
+    }
+  }
+}

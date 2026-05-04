@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="20" height="20">
+  <rect id="active-center" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="active-topleft" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="active-top" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="active-topright" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="active-left" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="active-right" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="active-bottomleft" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="active-bottom" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+  <rect id="active-bottomright" width="20" height="20" fill="#111a16" stroke="#1f3a2d" stroke-width="1"/>
+
+  <rect id="hover-center" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+  <rect id="hover-topleft" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+  <rect id="hover-top" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+  <rect id="hover-topright" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+  <rect id="hover-left" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+  <rect id="hover-right" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+  <rect id="hover-bottomleft" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+  <rect id="hover-bottom" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+  <rect id="hover-bottomright" width="20" height="20" fill="#15201c" stroke="#1aff85" stroke-width="1"/>
+
+  <rect id="pressed-center" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="pressed-topleft" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="pressed-top" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="pressed-topright" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="pressed-left" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="pressed-right" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="pressed-bottomleft" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="pressed-bottom" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+  <rect id="pressed-bottomright" width="20" height="20" fill="#00ff66" stroke="#00ff66" stroke-width="1"/>
+
+  <rect id="inactive-center" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="inactive-topleft" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="inactive-top" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="inactive-topright" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="inactive-left" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="inactive-right" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="inactive-bottomleft" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="inactive-bottom" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="inactive-bottomright" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+
+  <rect id="deactivated-center" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="deactivated-topleft" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="deactivated-top" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="deactivated-topright" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="deactivated-left" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="deactivated-right" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="deactivated-bottomleft" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="deactivated-bottom" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+  <rect id="deactivated-bottomright" width="20" height="20" fill="#0d1411" stroke="#2e4d3c" stroke-width="1"/>
+</svg>

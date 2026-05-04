@@ -1,0 +1,174 @@
+/* === GLOBAL === */
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "JetBrainsMono Nerd Font", monospace;
+    font-size: 11px;
+    min-height: 0;
+    color: #8bff9f;
+}
+
+/* === WAYBAR WINDOW === */
+window#waybar {
+    background: rgba(10, 15, 13, 0.95);
+    border-bottom: 1px solid #00ff66;
+    background-image: repeating-linear-gradient(
+        0deg,
+        rgba(0, 255, 102, 0.03) 0px,
+        rgba(0, 255, 102, 0.03) 1px,
+        transparent 1px,
+        transparent 3px
+    );
+}
+
+/* === BASE MODULE STYLE === */
+#clock,
+#cpu,
+#memory,
+#temperature,
+#battery,
+#network,
+#pulseaudio,
+#tray,
+#custom-launcher,
+#custom-power {
+background: rgba(17, 26, 22, 0.85);
+margin: 3px 0;
+padding: 0 14px;
+border-left: 1px solid #1f3a2d;
+transition: all 0.15s ease-in-out;
+}
+
+/* === SUBTLE GLOW EFFECT === */
+#clock,
+#cpu,
+#memory,
+#temperature,
+#battery,
+#network,
+#pulseaudio {
+text-shadow: 0 0 6px rgba(0, 255, 102, 0.35);
+}
+
+/* === LAUNCHER === */
+#custom-launcher {
+color: #00ff66;
+font-size: 15px;
+padding: 0 18px;
+border-left: none;
+}
+
+#custom-launcher:hover {
+background: rgba(0, 255, 102, 0.1);
+text-shadow: 0 0 10px #00ff66;
+}
+
+/* === CLOCK (CENTERPIECE) === */
+#clock {
+font-weight: bold;
+color: #1aff85;
+border-left: 1px solid #00ff66;
+border-right: 1px solid #00ff66;
+padding: 0 20px;
+}
+
+#clock:hover {
+background: rgba(0, 255, 102, 0.08);
+text-shadow: 0 0 12px #00ff66;
+}
+
+/* === CPU / MEMORY === */
+#cpu {
+color: #8bff9f;
+}
+
+#memory {
+color: #6edc8a;
+}
+
+/* === TEMPERATURE === */
+#temperature {
+color: #4fa36a;
+}
+
+#temperature.critical {
+color: #ff3b3b;
+font-weight: bold;
+text-shadow: 0 0 8px #ff3b3b;
+}
+
+/* === NETWORK === */
+#network {
+color: #1aff85;
+}
+
+#network.disconnected {
+color: #ff3b3b;
+}
+
+/* === AUDIO === */
+#pulseaudio {
+color: #8bff9f;
+}
+
+#pulseaudio.muted {
+color: #2e4d3c;
+text-decoration: line-through;
+}
+
+/* === BATTERY === */
+#battery {
+color: #8bff9f;
+}
+
+#battery.charging {
+color: #00ff66;
+}
+
+#battery.warning {
+color: #1aff85;
+font-weight: bold;
+}
+
+#battery.critical {
+color: #ff3b3b;
+font-weight: bold;
+text-shadow: 0 0 8px #ff3b3b;
+}
+
+/* === TRAY === */
+#tray {
+background: rgba(17, 26, 22, 0.85);
+}
+
+#tray > .passive {
+opacity: 0.4;
+}
+
+#tray > .needs-attention {
+color: #ff3b3b;
+}
+
+/* === POWER BUTTON === */
+#custom-power {
+color: #ff3b3b;
+padding: 0 18px;
+border-right: none;
+}
+
+#custom-power:hover {
+background: rgba(255, 59, 59, 0.15);
+text-shadow: 0 0 10px #ff3b3b;
+}
+
+/* === HOVER SYSTEM === */
+#cpu:hover,
+#memory:hover,
+#network:hover,
+#pulseaudio:hover,
+#battery:hover,
+#temperature:hover {
+background: rgba(0, 255, 102, 0.08);
+color: #00ff66;
+text-shadow: 0 0 10px #00ff66;
+}
